@@ -12,7 +12,9 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "customTitle": ""
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -11556,7 +11558,9 @@
         "backgroundColor": "transparent",
         "accentColor": "#3fb950",
         "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
+        "borderColor": "#30363d",
+        "customRoles": "Student",
+        "customLocation": "Anaheim,CA"
       },
       "locked": false,
       "visible": true,
@@ -11661,7 +11665,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790126255430_dduv5",
-    "updatedAt": "2026-09-23T01:17:38.950Z"
+    "revision": "rev_1790140354554_jbmep",
+    "updatedAt": "2026-09-23T05:12:37.524Z"
   }
 }
