@@ -1,7 +1,7 @@
 
 <svg width="800" height="1290" viewBox="0 0 800 1290" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
     * {
       box-sizing: border-box;
@@ -225,7 +225,7 @@
   
     <g class="frame-0">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -243,7 +243,7 @@
   </g>
   <g class="frame-1">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -261,7 +261,7 @@
   </g>
   <g class="frame-2">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -279,7 +279,7 @@
   </g>
   <g class="frame-3">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -297,7 +297,7 @@
   </g>
   <g class="frame-4">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -315,7 +315,7 @@
   </g>
   <g class="frame-5">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -333,7 +333,7 @@
   </g>
   <g class="frame-6">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -351,7 +351,7 @@
   </g>
   <g class="frame-7">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -369,7 +369,7 @@
   </g>
   <g class="frame-8">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -387,7 +387,7 @@
   </g>
   <g class="frame-9">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -405,7 +405,7 @@
   </g>
   <g class="frame-10">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -423,7 +423,7 @@
   </g>
   <g class="frame-11">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -441,7 +441,7 @@
   </g>
   <g class="frame-12">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -459,7 +459,7 @@
   </g>
   <g class="frame-13">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -477,7 +477,7 @@
   </g>
   <g class="frame-14">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -495,7 +495,7 @@
   </g>
   <g class="frame-15">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
-    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS & HABITS</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="41"><tspan fill="#30363d">│</tspan>                <tspan fill="#3fb950" font-weight="bold">INSIGHTS &amp; HABITS</tspan>           <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
     <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#39c5cf" font-weight="bold">KEY INSIGHTS</tspan>                                  <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e">▸</tspan> <tspan fill="#e5e5e5" font-weight="bold">Night Owl Developer Schedule</tspan>                <tspan fill="#30363d">│</tspan></text>
@@ -800,7 +800,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">7</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">7</tspan>                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -826,7 +826,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">8</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">8</tspan>                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -852,7 +852,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">9</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">9</tspan>                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -878,7 +878,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">10</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">10</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -904,7 +904,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">10</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">10</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -930,7 +930,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">11</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">11</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -956,7 +956,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">12</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">12</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -982,7 +982,7 @@
     <text x="15" y="164"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="181"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="198"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">13</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="215"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">13</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="232"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="249"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="266"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Divine-Client                                </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1718,6 +1718,7 @@
 <rect class="c-widget_1790125964582" style="animation-delay:1.143s" x="733.9318181818181" y="116.85606060606061" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#0e4429"><title>2026-09-25: 1 contribution</title></rect>
 <rect class="c-widget_1790125964582" style="animation-delay:1.188s" x="733.9318181818181" y="130.22727272727272" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-26: 0 contributions</title></rect>
 <rect class="c-widget_1790125964582" style="animation-delay:0.936s" x="747.3030303030303" y="50" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-27: 0 contributions</title></rect>
+<rect class="c-widget_1790125964582" style="animation-delay:0.981s" x="747.3030303030303" y="63.371212121212125" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-28: 0 contributions</title></rect>
 <text x="640.4469696969697" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="646.4469696969697" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#161b22"/>
 <rect x="659.8181818181819" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#0e4429"/>
@@ -1728,7 +1729,7 @@
 <text x="758" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="174.29545454545453" x2="780" y2="174.29545454545453" stroke="#252525" stroke-opacity="0.25"/>
 <text x="22" y="198.29545454545453" font-size="13" fill="#39d353"><tspan font-weight="700">13</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
-<text x="758" y="198.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">Sep 28, 2025 &#8594; Sep 27, 2026</text>
+<text x="758" y="198.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">Sep 28, 2025 &#8594; Sep 28, 2026</text>
 <text x="22" y="222.29545454545453" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">4 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">4 days</tspan></text>
 <text x="758" y="222.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">7</tspan> on Sep 23, 2026</text>
 </svg>
@@ -1743,7 +1744,7 @@
       <rect class="" x="0" y="0" width="104" height="40" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       
-    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ VIEWS COUNTER ]</text>
+    <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ VIEWS COUNTER ]</text>
     <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PROFILE VIEWS: 0" x="16" y="44" width="72" height="28" preserveAspectRatio="xMinYMid meet" viewBox="0 0 141.11962890625 28">
 	<title>PROFILE VIEWS: 0</title>
 	<g shape-rendering="crispEdges">
